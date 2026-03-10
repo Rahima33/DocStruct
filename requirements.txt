@@ -8,5 +8,3 @@ google-genai
 groq
 inference-sdk
 PyMuPDF
-torch
-torchvision
