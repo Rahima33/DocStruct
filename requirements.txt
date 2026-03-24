@@ -5,6 +5,7 @@ pillow
 easyocr
 python-dotenv
 google-genai
+google-generativeai
 groq
 inference
 PyMuPDF
